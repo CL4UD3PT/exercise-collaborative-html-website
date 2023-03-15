@@ -12,3 +12,11 @@ body{
 body>div.container-fluid {
     max-width: 1425px !important;
 }
+
+.tagline-h1 {
+    font-size: 8em;
+}
+
+.tagline-p {
+    font-size: 6em;
+}
