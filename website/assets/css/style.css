@@ -23,7 +23,10 @@ body>div.container-fluid {
     font-size: 5em;
 }
 
-.first-heading {
+.first-heading,
+.services,
+.portfolio,
+.contact {
     margin-top: 6em !important;
     margin-bottom: 6em !important;
     padding-left: 6em !important;
