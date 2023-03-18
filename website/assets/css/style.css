@@ -9,9 +9,21 @@ body{
     /* min-height: 100%; */
 }
 
-.tagline-1 { font-size:6vw; }
+@media (max-width: 991px) {
+    .tagline-1 { font-size:calc(3.25rem + 6vw); }
+}
 
-.tagline-2 { font-size:4vw; }
+@media (min-width: 992px) {
+    .tagline-1 { font-size: 7rem; }
+}
+
+@media (max-width: 991px) {
+    .tagline-2 { font-size:calc(2.1rem + 3vw); }
+}
+
+@media (min-width: 992px) {
+    .tagline-2 { font-size:4rem; }
+}
 
 hr {
     margin-top: 5em;
