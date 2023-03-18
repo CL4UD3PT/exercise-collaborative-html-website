@@ -9,13 +9,9 @@ body{
     /* min-height: 100%; */
 }
 
-.tagline-h1 {
-    font-size: 7vw;
-}
+.tagline-1 { font-size:6vw; }
 
-.tagline-p {
-    font-size: 4vw;
-}
+.tagline-2 { font-size:4vw; }
 
 hr {
     margin-top: 5em;
