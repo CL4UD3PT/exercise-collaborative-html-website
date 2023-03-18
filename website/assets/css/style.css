@@ -9,12 +9,6 @@ body{
     /* min-height: 100%; */
 }
 
-body>div.container-fluid {
-    max-width: 1425px !important;
-    padding-right: 0;
-    padding-left: 0;
-}
-
 .tagline-h1 {
     font-size: 8em;
 }
