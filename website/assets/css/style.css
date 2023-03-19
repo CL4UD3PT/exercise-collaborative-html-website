@@ -9,20 +9,21 @@ body{
     /* min-height: 100%; */
 }
 
+/* h1 and p of tagline code for responsive font-size */
 @media (max-width: 991px) {
-    .tagline-1 { font-size:calc(3.25rem + 6vw); }
+    .tagline-t1 { font-size:calc(3.25rem + 6vw); }
 }
 
 @media (min-width: 992px) {
-    .tagline-1 { font-size: 7rem; }
+    .tagline-t1 { font-size: 7rem; }
 }
 
 @media (max-width: 991px) {
-    .tagline-2 { font-size:calc(2.1rem + 3vw); }
+    .tagline-t2 { font-size:calc(2.1rem + 3vw); }
 }
 
 @media (min-width: 992px) {
-    .tagline-2 { font-size:4rem; }
+    .tagline-t2 { font-size:4rem; }
 }
 
 hr {
