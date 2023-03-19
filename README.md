@@ -62,3 +62,6 @@ Everyone delivers the same repo as solution.
 
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
+## Team Levan&Claudio
+
+Fulfilling the main objective of this project - to create a responsive website as a team (Git collaboration) - having defined the strategy for the structure and design of the website, we implemented Bootstrap classes and some customized ones for specific parts of the website, so that a level of responsiveness could be achieved, in which in any screen size, the website could have a presentation that is pleasant to the user.

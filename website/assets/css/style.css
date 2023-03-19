@@ -1,3 +1,36 @@
 body{
     background: #ffffff;
 }
+
+.background-img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    /* min-height: 100%; */
+}
+
+.tagline {
+    min-height: 60vh;
+}
+
+/* h1 and p of tagline code for responsive font-size */
+@media (max-width: 991px) {
+    .tagline-t1 { font-size:calc(3rem + 6vw); }
+}
+
+@media (min-width: 992px) {
+    .tagline-t1 { font-size: 7rem; }
+}
+
+@media (max-width: 991px) {
+    .tagline-t2 { font-size:calc(2.1rem + 3vw); }
+}
+
+@media (min-width: 992px) {
+    .tagline-t2 { font-size:4rem; }
+}
+
+hr {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
