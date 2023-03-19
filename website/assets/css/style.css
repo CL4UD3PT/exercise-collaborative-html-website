@@ -15,7 +15,7 @@ body{
 
 /* h1 and p of tagline code for responsive font-size */
 @media (max-width: 991px) {
-    .tagline-t1 { font-size:calc(3.25rem + 6vw); }
+    .tagline-t1 { font-size:calc(3rem + 6vw); }
 }
 
 @media (min-width: 992px) {
